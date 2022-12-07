@@ -1,0 +1,4 @@
+node.js HDD defrag
+um thread para cada interface
+each iframe a WS call, separate thread
+crash screen for each thread: DCRS interface, WS, WS-app
