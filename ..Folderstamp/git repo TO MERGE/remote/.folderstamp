@@ -1,0 +1,1322 @@
+This folder: /media/daniella/B/git/Floflis/Screens/DCRS/&meta/git repo TO MERGE/remote
+
+  File: ./.folderstamp
+  Size: 87        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193598     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:30:32.239512700 -0300
+Modify: 2023-08-25 01:30:32.239512700 -0300
+Change: 2023-08-25 01:30:32.239512700 -0300
+ Birth: 2023-08-25 01:30:32.239512700 -0300
+IPFS hash: QmUGGjo7o8FmZ1m1rzR6rStiEm7cg9RkuCyYqr42oDabEP
+------------------------------
+  File: ./.nostalgit/COMMIT_EDITMSG
+  Size: 25        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099256     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.268959200 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2022-12-07 16:12:24.207386400 -0300
+IPFS hash: QmNU2gSxN3V63z6HHP1HjtJyZCzVW5tgYTPfW7k3Pk4A5j
+------------------------------
+  File: ./.nostalgit/config
+  Size: 50        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099177     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.519432400 -0300
+Modify: 2022-12-07 16:12:22.283398400 -0300
+Change: 2022-12-07 16:12:22.283398400 -0300
+ Birth: 2022-12-07 16:12:22.278291600 -0300
+IPFS hash: QmRCdhLuCqhZ91NTcxSCfU1QXxV4CjkUdteiSfNPmsV7qH
+------------------------------
+  File: ./.nostalgit/description
+  Size: 73        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099176     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.223721700 -0300
+Modify: 2022-12-07 16:12:22.278022000 -0300
+Change: 2022-12-07 16:12:22.278022000 -0300
+ Birth: 2022-12-07 16:12:22.277816700 -0300
+IPFS hash: Qmdy135ZFG4kUALkaMhr6Cy3VhhkxyAh264kyg3725x8be
+------------------------------
+  File: ./.nostalgit/HEAD
+  Size: 21        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099175     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 22:52:15.640876400 -0300
+Modify: 2022-12-07 16:12:22.277584400 -0300
+Change: 2022-12-07 16:12:22.277584400 -0300
+ Birth: 2022-12-07 16:12:22.277399800 -0300
+IPFS hash: QmbRUdVtdtxcpdqyJE3iZwTJq7FPcXR1ErQRFB76sQCg9H
+------------------------------
+  File: ./.nostalgit/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099168     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.363722300 -0300
+Modify: 2022-12-07 16:12:22.276171400 -0300
+Change: 2022-12-07 16:12:22.276171400 -0300
+ Birth: 2022-12-07 16:12:22.276051600 -0300
+IPFS hash: QmY2duvZ5Resxt8astYUgQ8RXQz1N9axe77gCb5j6M95Gf
+------------------------------
+  File: ./.nostalgit/hooks/commit-msg.sample
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099167     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.463722800 -0300
+Modify: 2022-12-07 16:12:22.275830400 -0300
+Change: 2022-12-07 16:12:22.275830400 -0300
+ Birth: 2022-12-07 16:12:22.275676600 -0300
+IPFS hash: QmQbraCfKaCTZkqtdXCJPc11CWEiZGw1yYGwtbA6nbXWeh
+------------------------------
+  File: ./.nostalgit/hooks/fsmonitor-watchman.sample
+  Size: 4655      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099166     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.555723300 -0300
+Modify: 2022-12-07 16:12:22.275465000 -0300
+Change: 2022-12-07 16:12:22.275465000 -0300
+ Birth: 2022-12-07 16:12:22.275169600 -0300
+IPFS hash: QmNuzc8ypDCeoqfQffuasAjbdeFcj8o8kwuLq4eSUfYFkS
+------------------------------
+  File: ./.nostalgit/hooks/post-update.sample
+  Size: 189       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099165     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.623723600 -0300
+Modify: 2022-12-07 16:12:22.265683900 -0300
+Change: 2022-12-07 16:12:22.265683900 -0300
+ Birth: 2022-12-07 16:12:22.265344900 -0300
+IPFS hash: QmQjYxVj9iwitDGkmR48Cemr1JTgc6pvwo5cFkumNWqnjm
+------------------------------
+  File: ./.nostalgit/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099164     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.703724000 -0300
+Modify: 2022-12-07 16:12:22.250651900 -0300
+Change: 2022-12-07 16:12:22.250651900 -0300
+ Birth: 2022-12-07 16:12:22.250317000 -0300
+IPFS hash: QmdzjzkpM31jTKd5YBJkWsbDXJeeW1Uy1UxVPwfKFxwy89
+------------------------------
+  File: ./.nostalgit/hooks/pre-commit.sample
+  Size: 1643      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099162     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.779724300 -0300
+Modify: 2022-12-07 16:12:22.248895400 -0300
+Change: 2022-12-07 16:12:22.248895400 -0300
+ Birth: 2022-12-07 16:12:22.235298100 -0300
+IPFS hash: QmY33NoK9jzqitkPK1QdWTnNQt7m6DsE4fYvyohjdbyfju
+------------------------------
+  File: ./.nostalgit/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099163     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.851724700 -0300
+Modify: 2022-12-07 16:12:22.249753300 -0300
+Change: 2022-12-07 16:12:22.249753300 -0300
+ Birth: 2022-12-07 16:12:22.249496100 -0300
+IPFS hash: QmPte81MJoXgCngK75SVZTn2DAXskuo9gdVr2uR5PfVVQE
+------------------------------
+  File: ./.nostalgit/hooks/pre-push.sample
+  Size: 1348      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099161     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:36.939725100 -0300
+Modify: 2022-12-07 16:12:22.235055000 -0300
+Change: 2022-12-07 16:12:22.235055000 -0300
+ Birth: 2022-12-07 16:12:22.234888200 -0300
+IPFS hash: QmXprUtrWGYLRETUvuA89HjwUGdufGrwJxYaXyGwQ7TMvQ
+------------------------------
+  File: ./.nostalgit/hooks/pre-rebase.sample
+  Size: 4850      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099160     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:37.027725500 -0300
+Modify: 2022-12-07 16:12:22.234598200 -0300
+Change: 2022-12-07 16:12:22.234598200 -0300
+ Birth: 2022-12-07 16:12:22.234265500 -0300
+IPFS hash: QmfUUWWehKQYqGWXi32pzS9iPaSMiMTTB9uZHzpmZ3Z87x
+------------------------------
+  File: ./.nostalgit/hooks/pre-receive.sample
+  Size: 544       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099159     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:37.087725800 -0300
+Modify: 2022-12-07 16:12:22.234068600 -0300
+Change: 2022-12-07 16:12:22.234068600 -0300
+ Birth: 2022-12-07 16:12:22.233922600 -0300
+IPFS hash: QmRKbU9DFRNWjR1UwV4nC6MXPnrNanfsBM5579t4HLUuig
+------------------------------
+  File: ./.nostalgit/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099158     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:37.155726100 -0300
+Modify: 2022-12-07 16:12:22.233669600 -0300
+Change: 2022-12-07 16:12:22.233669600 -0300
+ Birth: 2022-12-07 16:12:22.233417100 -0300
+IPFS hash: QmPku8ai5p4sSCDHe19n9Ekfo21xM5urFdkq9Rg1wBHjcV
+------------------------------
+  File: ./.nostalgit/hooks/update.sample
+  Size: 3635      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099157     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:37.251726600 -0300
+Modify: 2022-12-07 16:12:22.232907200 -0300
+Change: 2022-12-07 16:12:22.232907200 -0300
+ Birth: 2022-12-07 16:12:22.232543000 -0300
+IPFS hash: QmV7QB3DHmN59g58DH4YFJMSsFsUCdc9PHK1uAdq2wk1wH
+------------------------------
+  File: ./.nostalgit/index
+  Size: 10174     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193341     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.316959500 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmQSSvTkdVQpPQwMwD4t57P8cRQDGEcAUkiA4oVWDw8nHf
+------------------------------
+  File: ./.nostalgit/info/exclude
+  Size: 240       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099155     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.603432600 -0300
+Modify: 2022-12-07 16:12:22.208366700 -0300
+Change: 2022-12-07 16:12:22.208366700 -0300
+ Birth: 2022-12-07 16:12:22.208119200 -0300
+IPFS hash: QmcfzxUpw36y8fu2GR3s7Vgq7RBgooKtc6BgsqFnadsDLc
+------------------------------
+  File: ./.nostalgit/logs/HEAD
+  Size: 738       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099261     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:37.451727500 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2022-12-07 16:12:24.217909500 -0300
+IPFS hash: Qmeh3QtrQFcvCExH3cmsyVFwe8z2d4chUB2yE19XmM4GDN
+------------------------------
+  File: ./.nostalgit/logs/refs/heads/main
+  Size: 738       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099264     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:37.507727800 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2022-12-07 16:12:24.218868400 -0300
+IPFS hash: Qmeh3QtrQFcvCExH3cmsyVFwe8z2d4chUB2yE19XmM4GDN
+------------------------------
+  File: ./.nostalgit/objects/90/38c3887355a5c89ea9dd3f9e2ff91281dca256
+  Size: 102       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099239     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.095382600 -0300
+IPFS hash: QmNZLfFYvFuMFV9BynNot6syRdAMzTwXe2dRtEVQFYMENo
+------------------------------
+  File: ./.nostalgit/objects/92/a659368c5c387be083f155664414e55a0da959
+  Size: 1031      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099202     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.744070300 -0300
+Modify: 2023-08-25 01:23:17.315931900 -0300
+Change: 2023-08-25 01:23:17.315931900 -0300
+ Birth: 2022-12-07 16:12:23.314453100 -0300
+IPFS hash: QmTqCeosoa7UApmJcWgux6zZaHSTXKGpYeiRTw6xcUZamS
+------------------------------
+  File: ./.nostalgit/objects/93/34136f357884163a1555406dd15f270ce0a4c1
+  Size: 382       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099187     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.680069900 -0300
+Modify: 2023-08-25 01:23:17.259931600 -0300
+Change: 2023-08-25 01:23:17.259931600 -0300
+ Birth: 2022-12-07 16:12:22.779906900 -0300
+IPFS hash: QmRceqHtXrHGU4Yuxz3jtRh14utqrcz9drRLTqUvr2uq67
+------------------------------
+  File: ./.nostalgit/objects/96/a8ae5ae271360f3e98aa3fb59115c2cd3193ea
+  Size: 878       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193317     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.289350000 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmUceeMugBwQx83eTsYYbvdfYmLyaHK9w1sLDqjtCKbR3e
+------------------------------
+  File: ./.nostalgit/objects/9b/97df20b88022964eef98ac11f0b7ac5e2247ee
+  Size: 441       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099193     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.292959400 -0300
+Modify: 2023-08-25 01:25:50.340944400 -0300
+Change: 2023-08-25 01:25:50.340944400 -0300
+ Birth: 2022-12-07 16:12:23.036178400 -0300
+IPFS hash: QmXg78FzMTJgYYhvM6TJBE45ep1EYEYZ13uYbvDw8oiFmD
+------------------------------
+  File: ./.nostalgit/objects/9b/de3ad14db6a6c148c60179a73e99441ac88f92
+  Size: 404       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193263     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.289350000 -0300
+Modify: 2023-08-25 01:25:50.328944300 -0300
+Change: 2023-08-25 01:25:50.328944300 -0300
+ Birth: 2023-08-25 01:25:50.328944300 -0300
+IPFS hash: QmYRXkjbCxA4LmoLiu95k6M7nXnZQKSXsxaUXHuV4fQ4Wu
+------------------------------
+  File: ./.nostalgit/objects/9d/f11cdc44aa22b4487fb32aa2e12b6c949af63a
+  Size: 268       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193360     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2023-08-25 01:25:52.268959200 -0300
+IPFS hash: QmX2xwvBxuJaK36FxYNLvhfgnDRnn2pooCeTuDLoVuAGph
+------------------------------
+  File: ./.nostalgit/objects/9e/8de374a23362ecc37cd60c8239e0fe4bbb91a4
+  Size: 459       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099180     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.680069900 -0300
+Modify: 2023-08-25 01:23:17.227931400 -0300
+Change: 2023-08-25 01:23:17.227931400 -0300
+ Birth: 2022-12-07 16:12:22.616763500 -0300
+IPFS hash: QmdcmJjsjswzv355ygZHoLusjohZuKBkDsisBq9EgPtFg5
+------------------------------
+  File: ./.nostalgit/objects/9e/b719377f0e807f4f6dd764e874f15869570b73
+  Size: 1123      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099209     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.800070600 -0300
+Modify: 2023-08-25 01:23:17.387932300 -0300
+Change: 2023-08-25 01:23:17.387932300 -0300
+ Birth: 2022-12-07 16:12:23.498568300 -0300
+IPFS hash: QmakCRmcmspaqQgxaSNdNMsWiNzxahrdbjXQ4Q9APM9Bc1
+------------------------------
+  File: ./.nostalgit/objects/a0/f69ee2669eb422d3cf115142550ceb1298e932
+  Size: 92        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099245     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.103834400 -0300
+IPFS hash: QmPiTjbB5boCNPCKsnR9oHNd6tSnF5kJGu25afysZxy4nG
+------------------------------
+  File: ./.nostalgit/objects/a1/10062ba11a6999cfdc926e12648c45cbf21681
+  Size: 3301      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193334     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.289350000 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.360944500 -0300
+ Birth: 2023-08-25 01:25:50.360944500 -0300
+IPFS hash: QmVbha2xfsThY1JjjwSFg52XNHcVK6qbZnh8Q29EfMPsW3
+------------------------------
+  File: ./.nostalgit/objects/a9/8bc5fb2a5b01932808a3f1bbc3041f6b6a9dd9
+  Size: 2400      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193336     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.289350000 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.360944500 -0300
+ Birth: 2023-08-25 01:25:50.360944500 -0300
+IPFS hash: QmTobd3UM7E1yTEgQCsEm38H6YnwxD7mVZuNbkbHKgGo54
+------------------------------
+  File: ./.nostalgit/objects/ac/267c881d6f2cf98444e4a5b263799f6fbcdae8
+  Size: 868       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193300     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.289350000 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: QmbKk3NiuuzBNXPtGCNX2d1Y1UiSv193o8JysAG7Bsh73f
+------------------------------
+  File: ./.nostalgit/objects/ac/dd89cd8703a6461e8ea3aa1380a2711a0ed9ef
+  Size: 993       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193294     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.293350000 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.344944400 -0300
+IPFS hash: QmNVBSfq7kPez8RV4hm3rADHzU7e4iCKEd9oJvvepV8Hot
+------------------------------
+  File: ./.nostalgit/objects/ae/ec5598d047c478b09cd816304cc4aef59e4eea
+  Size: 184       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193162     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.912071300 -0300
+Modify: 2023-08-25 01:23:41.640069700 -0300
+Change: 2023-08-25 01:23:41.640069700 -0300
+ Birth: 2023-08-25 01:23:41.640069700 -0300
+IPFS hash: QmfE3wBdSJv2ANV6QphCtyqHF25SAQJNQixosV8cEACLGq
+------------------------------
+  File: ./.nostalgit/objects/b5/ac4bffcc4e4148bc663d208f573bd53249281a
+  Size: 66        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099237     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:23.988918000 -0300
+IPFS hash: QmdyLJAVdmoqs4ju5MvWVokKdtxyDQRovsYnAachHP7gbh
+------------------------------
+  File: ./.nostalgit/objects/b8/de43ddbc71cf9663ab3c4c7d012c6bce3f306e
+  Size: 313       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193265     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.293350000 -0300
+Modify: 2023-08-25 01:25:50.328944300 -0300
+Change: 2023-08-25 01:25:50.328944300 -0300
+ Birth: 2023-08-25 01:25:50.328944300 -0300
+IPFS hash: QmezP7S9SQgPvLAuWr6Yz2mCdHzj3pDi3D29srbiyFi6Zz
+------------------------------
+  File: ./.nostalgit/objects/bd/d5eb9ebf00b346ee3a92f9f27f81254695413c
+  Size: 1223      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193286     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.293350000 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.344944400 -0300
+IPFS hash: QmeajwuUEZgxGa3QbRr1FF87ZmiVef1xT8PUgvspVvFRxj
+------------------------------
+  File: ./.nostalgit/objects/be/44877ef3ee2cb6e799471c1cddd088d7ba1fd0
+  Size: 1091      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193311     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.293350000 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmVsn8nBmc1czdJSBf2TNk8pCzmxMxfV1b4vWHBH2YdN1C
+------------------------------
+  File: ./.nostalgit/objects/be/fb0d869fde1ead98f9cc8d0a7d0ca0f969e1ce
+  Size: 1305      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193312     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.293350000 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmQKHpazSynNB6zq6qiYuUYxBSKTrGoxNT4S7ojvKvPwpu
+------------------------------
+  File: ./.nostalgit/objects/bf/0b00bb0abf462ce387b7f14bceb2d3e4908619
+  Size: 92        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193351     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.264959100 -0300
+IPFS hash: QmTBBTTr88KyQ1oCHNuSYDTmqzwoN7ccmnVGsMHBieqh4r
+------------------------------
+  File: ./.nostalgit/objects/bf/6aa6f27ca89cd0f852fa5d703ee6a699036fb2
+  Size: 1356      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193322     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.297350000 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmVsZvJXFJNaKBMyJpGa3tKiuHppvtFwLG1GzFv2qGEDLr
+------------------------------
+  File: ./.nostalgit/objects/c2/b25c5e4590a0f660d3754293ad295dfbb8b5aa
+  Size: 6185      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099189     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.292959400 -0300
+Modify: 2023-08-25 01:25:50.328944300 -0300
+Change: 2023-08-25 01:25:50.328944300 -0300
+ Birth: 2022-12-07 16:12:22.869716700 -0300
+IPFS hash: QmX8Mdc5tKwAKzii5PAR38TsbgKwzx6GQLJGUV86J5ZNRW
+------------------------------
+  File: ./.nostalgit/objects/c5/aabe07ffb1a5cea835e95b4d88f1c3e49327c9
+  Size: 272       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193151     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.636069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2023-08-25 01:22:58.591832500 -0300
+IPFS hash: QmP9eat3GXphzeM3PsSaA5wMA6Q1V9EbULbZEeqg7jZnPt
+------------------------------
+  File: ./.nostalgit/objects/c6/6e5519f6c4c92389a97c2292b3abfc206963a3
+  Size: 339       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193358     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.264959100 -0300
+IPFS hash: QmYS5TxQRNwxcXAWQim7pxoBeU4yERCbzmoXtVSz5W6G4e
+------------------------------
+  File: ./.nostalgit/objects/c9/3cddc789b51f4b5ba60761638a28a16bb6ef0b
+  Size: 1085      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193298     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.297350000 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: QmYSwzDfMWbaoUSrsq5pVVunKNTt3G9p9LDkjfnoYKQyUw
+------------------------------
+  File: ./.nostalgit/objects/ca/b02f95492dc38a83cc4c523032426a7a1408c0
+  Size: 10501     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193148     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.288959300 -0300
+Modify: 2023-08-25 01:25:50.032942000 -0300
+Change: 2023-08-25 01:25:50.032942000 -0300
+ Birth: 2023-08-25 01:22:58.571832400 -0300
+IPFS hash: QmbkwGUWZm11YRAy1MaWisZT8GhqF3f1so6ai9KqKF17tZ
+------------------------------
+  File: ./.nostalgit/objects/cb/3a58033a01ec3312ce0dadee43091032091acd
+  Size: 1102      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099226     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.852070900 -0300
+Modify: 2023-08-25 01:23:17.395932300 -0300
+Change: 2023-08-25 01:23:17.395932300 -0300
+ Birth: 2022-12-07 16:12:23.801166600 -0300
+IPFS hash: QmQBU1KdgC8owSyHjtLUZLuRUmW6BTnkxRTwwJKVbbi4hA
+------------------------------
+  File: ./.nostalgit/objects/cb/952d43d20a72cc94aacc49308bba98e4f4696e
+  Size: 31692     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193277     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.297350000 -0300
+Modify: 2023-08-25 01:25:50.340944400 -0300
+Change: 2023-08-25 01:25:50.340944400 -0300
+ Birth: 2023-08-25 01:25:50.336944400 -0300
+IPFS hash: QmPQKtF4Q43nRYMidkYRARaki9anVE48V5VcVcYNEESW9t
+------------------------------
+  File: ./.nostalgit/objects/cd/6696bc742ad677550ed69ecd44c3ad675cdfa4
+  Size: 50        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193343     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.260959100 -0300
+Change: 2023-08-25 01:25:52.260959100 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmdtvafUNBh9jt6zopB1zW8Ydf8QRZPTRP6pdRer8Upnrn
+------------------------------
+  File: ./.nostalgit/objects/d0/8780838e4aca9519deaca746429060cff33e40
+  Size: 202       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193330     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.297350000 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmSAEzMSKX1DdBAgzbtSfdzNw25MNpHg8uCEJ8bKTkvM4S
+------------------------------
+  File: ./.nostalgit/objects/d1/e1a5ac592ff45fed9e36a148b24f97773273bc
+  Size: 888       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193142     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.288959300 -0300
+Modify: 2023-08-25 01:25:50.032942000 -0300
+Change: 2023-08-25 01:25:50.032942000 -0300
+ Birth: 2023-08-25 01:22:58.567832400 -0300
+IPFS hash: QmYVkcW4Jq87XNRQgqFnUi1hphY1g7d8RLsCqhW3H1J97g
+------------------------------
+  File: ./.nostalgit/objects/d4/52b9ff88f7face548cbbe82aa3a04c80a07ff9
+  Size: 639       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193350     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmYiqkaz5fYeFfeeRf5NYCsWdG55RVj7nBGktorWrvHxgB
+------------------------------
+  File: ./.nostalgit/objects/d4/7b62fdf19e64d914659e4d17e7f84e2c51512c
+  Size: 51        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193160     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.640069700 -0300
+Modify: 2023-08-25 01:23:41.632069600 -0300
+Change: 2023-08-25 01:23:41.632069600 -0300
+ Birth: 2023-08-25 01:23:41.632069600 -0300
+IPFS hash: QmSZmVXjcxzoCbxhekzyZJkwC8uu183KbNRBM9myTP42Fy
+------------------------------
+  File: ./.nostalgit/objects/d5/8469431199e36eeb020148ce4c61b30ad25700
+  Size: 66        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193347     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.260959100 -0300
+Change: 2023-08-25 01:25:52.260959100 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmZrEFwykpPbDs8RTuwRJ9jox8gG2hB5Nq2yURY7ayY5U8
+------------------------------
+  File: ./.nostalgit/objects/d6/d73a10a854b98d00d903633a2db14303a3ca04
+  Size: 1294      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193296     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.301350100 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: QmULqXrvoDsiM12XEtPKMKh9kGAxPMVYNn8jGYpSZZd2m6
+------------------------------
+  File: ./.nostalgit/objects/d7/09dc65ce8024dd2d9b1caffe6101477e4ccae0
+  Size: 892       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193282     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.301350100 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.340944400 -0300
+IPFS hash: QmRyxAMm7rSnPLjKew5iMrHhrqkMahDWnrc8g8iuxK9FSA
+------------------------------
+  File: ./.nostalgit/objects/d7/97812dc2e1772ffb5903aa409de970f610ac00
+  Size: 156       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099255     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.603432600 -0300
+Modify: 2022-12-07 16:12:24.206180200 -0300
+Change: 2022-12-07 16:12:24.206468600 -0300
+ Birth: 2022-12-07 16:12:24.205991700 -0300
+IPFS hash: QmTzpVxL8hpTxrsMLYib9v3hkDdqdJdYJPZr4pzfC397pR
+------------------------------
+  File: ./.nostalgit/objects/da/6d1d340d5679a386d97eb215eb534f9521fcda
+  Size: 81        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193356     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.264959100 -0300
+IPFS hash: QmYkM2uicD2geLJERP5KphuwtXavnFVxqF4kBafUsQwFKz
+------------------------------
+  File: ./.nostalgit/objects/e1/cd2937645f4d6dcfbaf520d60c2725ee1ea56e
+  Size: 1220      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099200     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.720070200 -0300
+Modify: 2023-08-25 01:23:17.295931800 -0300
+Change: 2023-08-25 01:23:17.295931800 -0300
+ Birth: 2022-12-07 16:12:23.311633100 -0300
+IPFS hash: QmZ5fwRRyU6ZS9Qxu2Tcf4Hf224EaExjoPXTU6mLSmpxeB
+------------------------------
+  File: ./.nostalgit/objects/e3/4f4468531745108e4608ca4786185ccc0f45b0
+  Size: 546       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193260     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.301350100 -0300
+Modify: 2023-08-25 01:25:50.032942000 -0300
+Change: 2023-08-25 01:25:50.036942100 -0300
+ Birth: 2023-08-25 01:25:50.032942000 -0300
+IPFS hash: QmTbNo2KqSaYVo2gVeyNDaYQt7gZKHvb3zHqA1JqwRBR9X
+------------------------------
+  File: ./.nostalgit/objects/e3/91920fcb46eca94bb3b6348a3d4885927b89e8
+  Size: 28522     	Blocks: 56         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193276     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.313350200 -0300
+Modify: 2023-08-25 01:25:50.336944400 -0300
+Change: 2023-08-25 01:25:50.336944400 -0300
+ Birth: 2023-08-25 01:25:50.336944400 -0300
+IPFS hash: QmSM2Fv7Fgijdf8vxWeTBUAqDkiFwjpezSsXo9xjDHF3Un
+------------------------------
+  File: ./.nostalgit/objects/e4/b7cd41b750927e0e59fa82a13aae1471273aaa
+  Size: 1437      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099216     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.828070800 -0300
+Modify: 2023-08-25 01:23:17.391932300 -0300
+Change: 2023-08-25 01:23:17.391932300 -0300
+ Birth: 2022-12-07 16:12:23.648668200 -0300
+IPFS hash: QmfY6KnKmB3vdghC2nTp2kQjFgVDdongsXGD6RmpbWByor
+------------------------------
+  File: ./.nostalgit/objects/e9/a8ca4ef9307f847a89687ba48382f433db12c2
+  Size: 587       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099195     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.716070100 -0300
+Modify: 2023-08-25 01:23:17.287931800 -0300
+Change: 2023-08-25 01:23:17.287931800 -0300
+ Birth: 2022-12-07 16:12:23.076593300 -0300
+IPFS hash: QmYnPdAWKAijSuD2dKfXKHXyK7q1Gga9wjYrYxaxxDbj5Z
+------------------------------
+  File: ./.nostalgit/objects/ec/36dfefa4bca9f4e3bea1bab8b32bb39b3b9e2e
+  Size: 564       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099184     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.680069900 -0300
+Modify: 2023-08-25 01:23:17.243931500 -0300
+Change: 2023-08-25 01:23:17.243931500 -0300
+ Birth: 2022-12-07 16:12:22.732989400 -0300
+IPFS hash: QmUTezzUiek7tjFNtFPY2MNTSfNZPJTbVaLgbnE9NeUqkK
+------------------------------
+  File: ./.nostalgit/objects/ec/d5f7a0196010d6d2b5b05e9c16060f45835444
+  Size: 178       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099227     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.296959400 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.360944500 -0300
+ Birth: 2022-12-07 16:12:23.802274000 -0300
+IPFS hash: QmcipgVSoFxdzA5pkVTT8RmwBhMeBCywjtcZudMYVM4HgC
+------------------------------
+  File: ./.nostalgit/objects/ed/2df489491b4cfb5994f75815f3441ea2d4d418
+  Size: 786       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193146     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.288959300 -0300
+Modify: 2023-08-25 01:25:50.032942000 -0300
+Change: 2023-08-25 01:25:50.032942000 -0300
+ Birth: 2023-08-25 01:22:58.571832400 -0300
+IPFS hash: QmVDxi4JKbSj5DYFnsn6QhztRgzMjzPrZ96jG1Ch67Fjaq
+------------------------------
+  File: ./.nostalgit/objects/ee/354ecbe419dfc76061ed1ecd328c49e8714e4e
+  Size: 820       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099214     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.820070700 -0300
+Modify: 2023-08-25 01:23:17.391932300 -0300
+Change: 2023-08-25 01:23:17.391932300 -0300
+ Birth: 2022-12-07 16:12:23.611211200 -0300
+IPFS hash: QmUTQx6dajtHBdvkHYY3V8AHGUMS8yQeoDH4nmh478J4rQ
+------------------------------
+  File: ./.nostalgit/objects/ee/7c086e5385a35904e1f50963995f9326d9336a
+  Size: 167       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099257     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.603432600 -0300
+Modify: 2022-12-07 16:12:24.210512700 -0300
+Change: 2022-12-07 16:12:24.212516600 -0300
+ Birth: 2022-12-07 16:12:24.210142900 -0300
+IPFS hash: Qmda66hc8vUfLF1PNDiSdetKsoAA2b8H4JCN6Axav4AKs2
+------------------------------
+  File: ./.nostalgit/objects/f4/6eb4b868047973880ecff4e532deb96a0247d8
+  Size: 1101      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193290     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.313350200 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.344944400 -0300
+IPFS hash: QmTtRvqV1uVUmNLTUsxfNaxgSLB2weBu8K9ffPBqMiazmx
+------------------------------
+  File: ./.nostalgit/objects/f5/9a3ed0d7ddc24fd19a5d87cae9a548a6afeb28
+  Size: 1098      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193314     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.313350200 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmPDMNvvccyTQUkYE9EuQ2f1vZoi8ovjCzGSbDkwz6yX75
+------------------------------
+  File: ./.nostalgit/objects/f7/055750fe48ad121530a1fa0d5ff5b5a1379052
+  Size: 1016      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193309     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.313350200 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmRZRN2amx481psoNYmRFYFWNGVk4pHybL4g6h9U4JhGXt
+------------------------------
+  File: ./.nostalgit/objects/f7/9197c74e2ead6ea8a3342a279f353ccf2a8d8f
+  Size: 265       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193348     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.260959100 -0300
+Change: 2023-08-25 01:25:52.260959100 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmXW7k6t5ufzEMfgVurwu9j2CnEzvKTeLf2fccaoJidFpp
+------------------------------
+  File: ./.nostalgit/objects/fd/04adfe9bb981300e437766cabb33ffc2162657
+  Size: 4338      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193275     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.317350200 -0300
+Modify: 2023-08-25 01:25:50.332944300 -0300
+Change: 2023-08-25 01:25:50.332944300 -0300
+ Birth: 2023-08-25 01:25:50.332944300 -0300
+IPFS hash: QmSUPa4bpGwVgfyYq53Q4iFE1vUPAd2qVQki9sP5Yqdmhu
+------------------------------
+  File: ./.nostalgit/objects/fd/2cf11c6c39ebbdbc5ba6802ccb28c5fac57c9a
+  Size: 812       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193301     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.317350200 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: QmVHc52mYh3fTYkUCGNxXK8pRL3V47M7ecowP8cd4Jvyxx
+------------------------------
+  File: ./.nostalgit/objects/fe/34f11ac93c07d0df3a36dd2c0733b0eaf47427
+  Size: 4466      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193273     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.317350200 -0300
+Modify: 2023-08-25 01:25:50.332944300 -0300
+Change: 2023-08-25 01:25:50.332944300 -0300
+ Birth: 2023-08-25 01:25:50.332944300 -0300
+IPFS hash: QmPq1kjLKXfoT2cL9SotMxqznps3ixLnwR4TY8mje55mFN
+------------------------------
+  File: ./.nostalgit/objects/01/9e09303fde107e57d95fafd1ca33747e51c826
+  Size: 1304      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099208     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.780070500 -0300
+Modify: 2023-08-25 01:23:17.375932200 -0300
+Change: 2023-08-25 01:23:17.375932200 -0300
+ Birth: 2022-12-07 16:12:23.480028400 -0300
+IPFS hash: Qmc48s4NyvquHQDSZEgz5DsFSHY1FA5Ymqb4KRdCwShMev
+------------------------------
+  File: ./.nostalgit/objects/05/0ad11a1445e25e3916b8bb9378443318342e47
+  Size: 399       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193340     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.193349200 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.364944600 -0300
+ Birth: 2023-08-25 01:25:50.360944500 -0300
+IPFS hash: QmNNwrufWADVvpqzoCFMY8dYtHkB35cEFUkSPZ71jdnyuH
+------------------------------
+  File: ./.nostalgit/objects/07/7a4b7b34718974432d6fa1f60ba45379488f53
+  Size: 288       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193328     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.205349300 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmW7hAb55Wx97iTiCfFyo7L4KwEPfDGHH5Udn82LNRfNDF
+------------------------------
+  File: ./.nostalgit/objects/0a/b2c475a71d44a400e6ce25e590af9310d293eb
+  Size: 201       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099198     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.292959400 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2022-12-07 16:12:23.132009600 -0300
+IPFS hash: QmWbyDTqd9ea2kRgtCEBmGohHbspRTuWX9oinXKjTumCMW
+------------------------------
+  File: ./.nostalgit/objects/0c/3778a4a1731e92501f5d48b2d0f973212b0cfa
+  Size: 13212     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193281     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.229349500 -0300
+Modify: 2023-08-25 01:25:50.340944400 -0300
+Change: 2023-08-25 01:25:50.340944400 -0300
+ Birth: 2023-08-25 01:25:50.340944400 -0300
+IPFS hash: QmXoRWsYbyk69ksGMbQcKMB3PFZTmdoxhVJGi6XPzueP7T
+------------------------------
+  File: ./.nostalgit/objects/0d/4b132f974a473e1b3cdc845f99bae782588ea8
+  Size: 1747      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099229     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.296959400 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.360944500 -0300
+ Birth: 2022-12-07 16:12:23.803392600 -0300
+IPFS hash: QmRJanLtdcNDFm6wcY3RvYYg2fe8TCcETvaXs5GnrUnV47
+------------------------------
+  File: ./.nostalgit/objects/15/749aace57d5fad421b48af796021de71249f79
+  Size: 86        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099249     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.105922800 -0300
+IPFS hash: QmNoPxfw2Td4uSLgqjWfjMcNfiACE4TzKFvdKnbHyppp4U
+------------------------------
+  File: ./.nostalgit/objects/1a/ba7877c4e3f44c71517d7553bf9dae46f2548c
+  Size: 1113      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099204     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.756070400 -0300
+Modify: 2023-08-25 01:23:17.331932000 -0300
+Change: 2023-08-25 01:23:17.331932000 -0300
+ Birth: 2022-12-07 16:12:23.330530700 -0300
+IPFS hash: QmRwnp1KvUMBZpCGQtPnL28v45eZ9bmH4H1vMidZQ5RzwY
+------------------------------
+  File: ./.nostalgit/objects/1a/e9386758eb058ef5bd069d4a5fbe74c27599cb
+  Size: 50        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099233     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:23.983866500 -0300
+IPFS hash: QmRErECXnWnDbNEMDmi4iFrbMrBvrEANpJUcWGfJwjFZyp
+------------------------------
+  File: ./.nostalgit/objects/1d/507465dd51c0f09521bf0702abfa8df20ddbee
+  Size: 54        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099251     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.107767700 -0300
+IPFS hash: QmPy5s2t2gNe2EgvBFR6CARzaahWpABz6Ckb8w9L5K1oXr
+------------------------------
+  File: ./.nostalgit/objects/1f/6413e321d46cd617174aadcc88e8d50c5dd0e4
+  Size: 1954      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193338     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.249349600 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.360944500 -0300
+ Birth: 2023-08-25 01:25:50.360944500 -0300
+IPFS hash: QmeLVsgQ8Tvq4cSzwb96VRhGZML1VnwJZfNrhgUieB4YWa
+------------------------------
+  File: ./.nostalgit/objects/1f/dbef079a9cbfdd2e4ad639e11cd7c866fb0201
+  Size: 139       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193354     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.264959100 -0300
+IPFS hash: Qmf1w5Mm3ykjGq49EgKNdam88wrmsYgMY1dBzQoMVidioP
+------------------------------
+  File: ./.nostalgit/objects/22/8dd39314fa849686fa652e45e01bbb92056b14
+  Size: 201       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193284     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.249349600 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.344944400 -0300
+IPFS hash: QmQqstQu5p6nusCvGRFWsZQZjXEzxovo2j4hEYmjfmHZ29
+------------------------------
+  File: ./.nostalgit/objects/23/2026b1b8513f2835d6cc2993a7402c3b1c84c8
+  Size: 121       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193345     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.260959100 -0300
+Change: 2023-08-25 01:25:52.260959100 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmNeTukugtM4EHcKrgiDbqcAtgSaDJfRbWjU5FKQZJC9aL
+------------------------------
+  File: ./.nostalgit/objects/27/852e68205b2beb18688b966cfdff462cc3b92a
+  Size: 1037      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193332     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.249349600 -0300
+Modify: 2023-08-25 01:25:50.360944500 -0300
+Change: 2023-08-25 01:25:50.360944500 -0300
+ Birth: 2023-08-25 01:25:50.360944500 -0300
+IPFS hash: QmRhm67sTx6iZRveZ581Rto9rvgHw7tBC6SZXkRhv6JdvY
+------------------------------
+  File: ./.nostalgit/objects/2c/a62dedec11194253f37630ad0be47362252e97
+  Size: 353       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099241     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.101796200 -0300
+IPFS hash: Qmae9cgQxfaX42JHwBEj7195DUSxTS6LTrkecksz1YWoa1
+------------------------------
+  File: ./.nostalgit/objects/2f/c41507f12764be00dd538013e32e20b4752e47
+  Size: 1025      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193288     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.249349600 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.344944400 -0300
+IPFS hash: QmYPfAkrvvxogN1puczuVUjfY9xz5rNaK6TsHoWr2QCvC6
+------------------------------
+  File: ./.nostalgit/objects/37/00424b1990e54b6a6a8878b46f37cee3a933b7
+  Size: 1472      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193299     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.253349700 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: Qmd4tHzri6Hi77rh5XZwDVNihYDjcRTksis7zDFfwc8oVq
+------------------------------
+  File: ./.nostalgit/objects/37/0cab18aa73b3b9f64abb51a19fcaba5e5f3cc1
+  Size: 201       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099224     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.296959400 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2022-12-07 16:12:23.799617600 -0300
+IPFS hash: QmQbo5n8D6wAWdbZ6iySjzxhiTfmtM19Z7b3WV16JUYACM
+------------------------------
+  File: ./.nostalgit/objects/3f/ea21ed912984e182edc456831ce51f85d76bb4
+  Size: 535       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193267     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.253349700 -0300
+Modify: 2023-08-25 01:25:50.328944300 -0300
+Change: 2023-08-25 01:25:50.328944300 -0300
+ Birth: 2023-08-25 01:25:50.328944300 -0300
+IPFS hash: QmXAEMkbi8qFGkFjEBWWkoeaXgV34rYb8oJdj1WjbXp2Te
+------------------------------
+  File: ./.nostalgit/objects/44/bf49e793a83cdc4c6dd42a7d4469113d82c397
+  Size: 1213      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193292     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.269349800 -0300
+Modify: 2023-08-25 01:25:50.344944400 -0300
+Change: 2023-08-25 01:25:50.344944400 -0300
+ Birth: 2023-08-25 01:25:50.344944400 -0300
+IPFS hash: QmarXokWj263H9pfsd7RnJEqTSk9aouBhp4Zzn6pHKUyqh
+------------------------------
+  File: ./.nostalgit/objects/46/f3b1f6671757ac2f379d04aeb053abeceb4499
+  Size: 1346      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193307     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.269349800 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: Qmd79ocPHKCWhhYrpzZtzCxs8asSwsG4SAkCaLuRtVRvMP
+------------------------------
+  File: ./.nostalgit/objects/47/098d6b29c09e954c0851889d95bd05952e348c
+  Size: 932       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193144     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.288959300 -0300
+Modify: 2023-08-25 01:25:50.032942000 -0300
+Change: 2023-08-25 01:25:50.032942000 -0300
+ Birth: 2023-08-25 01:22:58.571832400 -0300
+IPFS hash: QmcGeFJJb9kN4D5qwLN4GLmhvReW3ffAssrr73hBz22nNi
+------------------------------
+  File: ./.nostalgit/objects/57/0c188dc8c21bfeae184edf1cb0acbe3e6807c6
+  Size: 396       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099231     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.868071000 -0300
+Modify: 2023-08-25 01:23:17.395932300 -0300
+Change: 2023-08-25 01:23:17.395932300 -0300
+ Birth: 2022-12-07 16:12:23.829151600 -0300
+IPFS hash: QmansRzeRb79AoNaKDdC6Suo4gKo1RMjYpG7RBCXjQapVF
+------------------------------
+  File: ./.nostalgit/objects/5d/b2085341330b81ee650f273cbbefe52d1edffd
+  Size: 310       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099253     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.204606400 -0300
+IPFS hash: QmWzTfB6r6AzkYhqKCVuq3Q6cDM3VwUkQyxbyQeYpCFMRk
+------------------------------
+  File: ./.nostalgit/objects/5f/effe6cbb53e0bfba7f98039044aa40738bcb12
+  Size: 2113      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193325     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.269349800 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmXNyjhXpNEqjzPBYdLK6H9GLMfsioVsHziMYSAPRE637c
+------------------------------
+  File: ./.nostalgit/objects/62/ba0b56a9cf1ba807ef05d6d3d61c4f977b6e86
+  Size: 121       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099235     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:23.987518200 -0300
+IPFS hash: QmNvuhcmLuo7n9721j329WXVnySe9pxesHways6kxX6rQw
+------------------------------
+  File: ./.nostalgit/objects/64/1e395bddc9a85ade87ef011ca77aa650f6ab46
+  Size: 66        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193362     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2023-08-25 01:25:52.268959200 -0300
+IPFS hash: QmbXeYLgcqUMgDdYiTujvSY1fxBiKHqCedmRWs2dtzAhb7
+------------------------------
+  File: ./.nostalgit/objects/66/2d0e053a3006ee64b46d6455d4a746fd81c854
+  Size: 1361      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099218     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.836070800 -0300
+Modify: 2023-08-25 01:23:17.391932300 -0300
+Change: 2023-08-25 01:23:17.391932300 -0300
+ Birth: 2022-12-07 16:12:23.690336300 -0300
+IPFS hash: QmZfKDzaeinrqvbTVJr6jpbuCMxMTcaEP8raXaceFw7LdH
+------------------------------
+  File: ./.nostalgit/objects/67/074bc3a2740fb1e8dcd69a4e3ce5d29588f5e9
+  Size: 557       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193262     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.273349800 -0300
+Modify: 2023-08-25 01:25:50.328944300 -0300
+Change: 2023-08-25 01:25:50.328944300 -0300
+ Birth: 2023-08-25 01:25:50.328944300 -0300
+IPFS hash: QmZ7fwfDT8YF4YohC5DnjRRBj74b7SvqZimeYuD4UbSfus
+------------------------------
+  File: ./.nostalgit/objects/6a/191ab986b2b5eba48c2f90649dbc7440a08783
+  Size: 295       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099220     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.296959400 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2022-12-07 16:12:23.752061800 -0300
+IPFS hash: QmYx1ZKLmK7TTuMdtppTxYK5Td5xWES9SZWuAKUPSNJZhg
+------------------------------
+  File: ./.nostalgit/objects/6a/abc799fafde458db2837238598172c717f802f
+  Size: 120       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193352     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.264959100 -0300
+IPFS hash: QmbS7AHPDs15LLQ2wGSWPv6v4uaADwcPQ2mCec1jJS3aJN
+------------------------------
+  File: ./.nostalgit/objects/6d/8935e10f55557d94ce0849717aeff7a318f6df
+  Size: 184       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193349     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.260959100 -0300
+Change: 2023-08-25 01:25:52.260959100 -0300
+ Birth: 2023-08-25 01:25:52.260959100 -0300
+IPFS hash: QmSwCjHyUj4kBmsnMgbFVA6PWhQtWr2uXgf1ojAtaHg6oD
+------------------------------
+  File: ./.nostalgit/objects/6d/b037d3f83b5afb1d078d8ad3405266ba4d9080
+  Size: 8158      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193269     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.281349900 -0300
+Modify: 2023-08-25 01:25:50.328944300 -0300
+Change: 2023-08-25 01:25:50.328944300 -0300
+ Birth: 2023-08-25 01:25:50.328944300 -0300
+IPFS hash: QmUgjFygY9BLwe6qy3UcEHzX2cWNiyn8p1BhFj6b7RzP6T
+------------------------------
+  File: ./.nostalgit/objects/6f/68c4055fb5843787d1bfa5d2c65cee86d4a6af
+  Size: 66        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099243     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.102791100 -0300
+IPFS hash: QmY9cwxJUAU36csvoqzcChTf2mheCcAxzzmiNMLHRcn8kX
+------------------------------
+  File: ./.nostalgit/objects/71/00d4b140350673f7139334aa9e1d55d138ff04
+  Size: 270       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099182     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.292959400 -0300
+Modify: 2023-08-25 01:25:50.036942100 -0300
+Change: 2023-08-25 01:25:50.036942100 -0300
+ Birth: 2022-12-07 16:12:22.674827600 -0300
+IPFS hash: QmWoFB6fGGJih4RoiJnhkV1p4grTfhoxxSrYkN5SGaJxKT
+------------------------------
+  File: ./.nostalgit/objects/72/2b71f3c58eab9d2fef3be0fd26093000031f79
+  Size: 297       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193323     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.281349900 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmZfpbDjEQx5Jd3HJmhnkXXf2Hk2WgSzbkYZSaCNgjY7SW
+------------------------------
+  File: ./.nostalgit/objects/72/624fc6ebf56a14665750d9d01a353d3dfabb2c
+  Size: 880       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099212     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.812070700 -0300
+Modify: 2023-08-25 01:23:17.391932300 -0300
+Change: 2023-08-25 01:23:17.391932300 -0300
+ Birth: 2022-12-07 16:12:23.587850600 -0300
+IPFS hash: QmUKKSt7b8VWfaQ8Pko7tz5h3qp9Ga8mKNrRaRPdsn2CUT
+------------------------------
+  File: ./.nostalgit/objects/72/8b45dcd1fd3aec71048aa1cb201c19ab0bd627
+  Size: 818       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193318     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.281349900 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmTMHh19shnpc4QRNFSJ3pYjr86PhzLohNDxTEWLQiAXC2
+------------------------------
+  File: ./.nostalgit/objects/73/3cf03c497650f9313ba8396dff0a742805d243
+  Size: 25293     	Blocks: 56         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193271     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.281349900 -0300
+Modify: 2023-08-25 01:25:50.332944300 -0300
+Change: 2023-08-25 01:25:50.332944300 -0300
+ Birth: 2023-08-25 01:25:50.332944300 -0300
+IPFS hash: QmSxs8LaKagwqits5n1JAjQEFGEcE3y8mnjQ9GLZAsrWgw
+------------------------------
+  File: ./.nostalgit/objects/73/4be3e0ee3e61489f1306d602fe3ff58aff0181
+  Size: 113       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193353     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.264959100 -0300
+Change: 2023-08-25 01:25:52.264959100 -0300
+ Birth: 2023-08-25 01:25:52.264959100 -0300
+IPFS hash: QmPhkFn7KoiWJAbL29DTMG4RJiJYvvND6oZMm8qk1Rb4ZL
+------------------------------
+  File: ./.nostalgit/objects/74/f7530b3f2b848969fb0098b64e090639a7a48a
+  Size: 1001      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193305     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.281349900 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: Qmf3ngZ5sEgkbXsbah2HpusGDwVfJ8i9UcNw87h5nrQwTn
+------------------------------
+  File: ./.nostalgit/objects/75/4a4104c746506a21a971228ca2497869dd44c2
+  Size: 2115      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099222     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.848070900 -0300
+Modify: 2023-08-25 01:23:17.395932300 -0300
+Change: 2023-08-25 01:23:17.395932300 -0300
+ Birth: 2022-12-07 16:12:23.795763800 -0300
+IPFS hash: QmWSA4JHcDPi49dxfJRFX8NX2NEhQ117M6wAXxikyCDakZ
+------------------------------
+  File: ./.nostalgit/objects/76/aea184ead8a25801aceba1e90b68634a3e2124
+  Size: 60        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099247     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.644069700 -0300
+Modify: 2023-08-25 01:23:41.316067800 -0300
+Change: 2023-08-25 01:23:41.316067800 -0300
+ Birth: 2022-12-07 16:12:24.104903900 -0300
+IPFS hash: QmRTBc286K1nExABgTNx2itSTcU6XgcHkmUKCzjgaiFGuS
+------------------------------
+  File: ./.nostalgit/objects/7a/29b729a1d72a6ee2725413c7ab5701616beefb
+  Size: 1011      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099206     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.760070400 -0300
+Modify: 2023-08-25 01:23:17.343932100 -0300
+Change: 2023-08-25 01:23:17.343932100 -0300
+ Birth: 2022-12-07 16:12:23.416106700 -0300
+IPFS hash: QmRnePa9Zo9EgiSfxg9LySsLooAN6BNmpUSX9vATNYofHL
+------------------------------
+  File: ./.nostalgit/objects/7a/5947742c217d2d396b7642a87beb11fd889f5d
+  Size: 1479      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193315     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.285349900 -0300
+Modify: 2023-08-25 01:25:50.352944500 -0300
+Change: 2023-08-25 01:25:50.352944500 -0300
+ Birth: 2023-08-25 01:25:50.352944500 -0300
+IPFS hash: QmQVUUEmCZ4D5ny7Gww7zpZ3CnAXszk84RmbsdWzAgsRBS
+------------------------------
+  File: ./.nostalgit/objects/7a/bf61d567ac0a5b52eb024848c7c29a9aad6b77
+  Size: 1488      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099210     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.808070700 -0300
+Modify: 2023-08-25 01:23:17.387932300 -0300
+Change: 2023-08-25 01:23:17.387932300 -0300
+ Birth: 2022-12-07 16:12:23.551379900 -0300
+IPFS hash: QmZqWw8sV5JZ7HM9xu7EECYR6BT9cc21XMMFbUnwfheu8J
+------------------------------
+  File: ./.nostalgit/objects/7c/20d9d211ce8d26a1a5b9893615c9ba9ddeac2a
+  Size: 284       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099191     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:23:41.716070100 -0300
+Modify: 2023-08-25 01:23:17.271931700 -0300
+Change: 2023-08-25 01:23:17.271931700 -0300
+ Birth: 2022-12-07 16:12:22.976290600 -0300
+IPFS hash: QmUs1N6zep9ZxtB5vVGAtz7a3o1GgY1FdS1zkTL57Cp4sB
+------------------------------
+  File: ./.nostalgit/objects/7d/2c112f8743e66697bbaa785535c8fcb8e089f8
+  Size: 1407      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193320     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.285349900 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmZ3mF4pKrPq9EAZh7GCJYSKThf4hHnqaav14cQLCfBYuf
+------------------------------
+  File: ./.nostalgit/objects/7d/ee709070a9bac238a27e0801a1f82935f6f6b0
+  Size: 2107      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193326     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.285349900 -0300
+Modify: 2023-08-25 01:25:50.356944500 -0300
+Change: 2023-08-25 01:25:50.356944500 -0300
+ Birth: 2023-08-25 01:25:50.356944500 -0300
+IPFS hash: QmPBhGeXLcDeewqjZf2djBQHgaoYndS8Gkvau29JYHFqaH
+------------------------------
+  File: ./.nostalgit/objects/83/e7ede95b8dc8b2986a4e38240d67c51a01b328
+  Size: 168       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193153     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:58.615832600 -0300
+Modify: 2023-08-25 01:22:58.591832500 -0300
+Change: 2023-08-25 01:22:58.591832500 -0300
+ Birth: 2023-08-25 01:22:58.591832500 -0300
+IPFS hash: QmXM68C85DmQFHwAwtERLEe3gV9JHD91JCQiK1CgByxd4d
+------------------------------
+  File: ./.nostalgit/objects/84/c0728187370c561a2e15f06462e2e01a391c15
+  Size: 1402      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193303     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.285349900 -0300
+Modify: 2023-08-25 01:25:50.348944400 -0300
+Change: 2023-08-25 01:25:50.348944400 -0300
+ Birth: 2023-08-25 01:25:50.348944400 -0300
+IPFS hash: QmXPNKtHkocMyufXaWiVwrFqTKXTRUKjpfffaMbc75W4MU
+------------------------------
+  File: ./.nostalgit/objects/8b/e8748a9333ce8f4a2198eace46bf937d2d05b3
+  Size: 16987     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 4193279     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:26:41.285349900 -0300
+Modify: 2023-08-25 01:25:50.340944400 -0300
+Change: 2023-08-25 01:25:50.340944400 -0300
+ Birth: 2023-08-25 01:25:50.340944400 -0300
+IPFS hash: QmNc2dTqRk5eX3Z9qKR9oQWDa8Ps9PQcJ9r6vJb76TnW4v
+------------------------------
+  File: ./.nostalgit/objects/8d/667baaa21c9c335cdf14891415f6a05ce7df3c
+  Size: 185       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193364     Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.316959500 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2023-08-25 01:25:52.268959200 -0300
+IPFS hash: QmU16h5y8PcMcrkXTbDbDEu9uLtwEWUwLeeZZGY8jgXqyU
+------------------------------
+  File: ./.nostalgit/refs/heads/main
+  Size: 41        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193366     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:25:52.276959200 -0300
+Modify: 2023-08-25 01:25:52.268959200 -0300
+Change: 2023-08-25 01:25:52.268959200 -0300
+ Birth: 2023-08-25 01:25:52.268959200 -0300
+IPFS hash: QmPErhRodBJ6SsqRLmuo83rdWi3h1qQHaWBva9btMZB4ah
+------------------------------
