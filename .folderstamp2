@@ -1,0 +1,72 @@
+This folder: /media/daniella/B/git/Floflis/Screens/DCRS/&meta
+
+  File: ./Apresentação2.pptx
+  Size: 213226    	Blocks: 424        IO Block: 4096   regular file
+Device: 8,20	Inode: 1099039     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:20:16.955250300 -0300
+Modify: 2022-12-16 12:36:48.839715100 -0300
+Change: 2023-08-25 01:20:23.775263600 -0300
+ Birth: 2022-12-07 16:08:27.976698500 -0300
+IPFS hash: QmVuCeWXF1YERFVNervmaZAviKCDCicukVsBtKeG2eyTmE
+------------------------------
+  File: ./Apresentação2.pptx@git
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1099104     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:42.766014700 -0300
+Modify: 2022-12-07 16:12:22.206114800 -0300
+Change: 2023-08-25 01:20:23.771263600 -0300
+ Birth: 2022-12-07 16:09:35.872184600 -0300
+IPFS hash: 
+------------------------------
+  File: ./DCRS.txt
+  Size: 167       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099265     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:13:34.158354300 -0300
+Modify: 2016-08-08 11:50:06.000000000 -0300
+Change: 2022-12-07 16:13:23.162724200 -0300
+ Birth: 2022-12-07 16:13:23.019128300 -0300
+IPFS hash: QmSDL3MyuPwK9DSFQ3Hy3wbQt93GoKZ4ngx2ZNHbFWiyjb
+------------------------------
+  File: ./need.txt
+  Size: 147       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099266     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:13:34.357688400 -0300
+Modify: 2016-09-02 05:08:32.000000000 -0300
+Change: 2022-12-07 16:13:23.269562500 -0300
+ Birth: 2022-12-07 16:13:23.186916400 -0300
+IPFS hash: QmRXAvEdXkzzhCbWA8YJSPsb2HXSkSa4NTAEByvzfBLNiU
+------------------------------
+  File: ./noempty.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1438682     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-11-24 23:15:08.293918900 -0300
+Modify: 2022-11-24 23:14:59.232697500 -0300
+Change: 2022-11-24 23:15:03.297186600 -0300
+ Birth: 2022-11-24 23:14:59.232697500 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Papers
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1438886     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:42.502605300 -0300
+Modify: 2022-11-24 23:17:42.653578100 -0300
+Change: 2022-11-24 23:17:42.653578100 -0300
+ Birth: 2022-11-24 23:17:32.583899500 -0300
+IPFS hash: 
+------------------------------
+  File: ./Private
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1438681     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:42.503609400 -0300
+Modify: 2022-11-24 23:15:24.683160900 -0300
+Change: 2022-11-24 23:15:24.683160900 -0300
+ Birth: 2022-11-24 23:14:48.286466700 -0300
+IPFS hash: 
+------------------------------

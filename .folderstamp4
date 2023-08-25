@@ -1,0 +1,1032 @@
+This folder: /media/daniella/B/git/Floflis/Screens/DCRS/&meta/git repo TO MERGE
+
+  File: ./.folderstamp
+  Size: 80        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193139     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:35.503718300 -0300
+Modify: 2023-08-25 01:22:35.503718300 -0300
+Change: 2023-08-25 01:22:35.503718300 -0300
+ Birth: 2023-08-25 01:22:35.503718300 -0300
+IPFS hash: QmSMB5WyvukvVJduz5dWZUjdxBevxZe6hnSqDGHWjxqNFn
+------------------------------
+  File: ./.folderstamp1
+  Size: 3481      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193129     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:20:16.539249500 -0300
+Modify: 2023-08-25 01:20:17.683251600 -0300
+Change: 2023-08-25 01:22:28.207684100 -0300
+ Birth: 2023-08-25 01:20:16.539249500 -0300
+IPFS hash: QmNm83PxwFvYmgUyMbCTUF6XD2dC9HbQB9YiMrfSXPPaGq
+------------------------------
+  File: ./.folderstamp2
+  Size: 3211      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193131     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:20:51.235328300 -0300
+Modify: 2023-08-25 01:20:51.799329800 -0300
+Change: 2023-08-25 01:22:28.211684100 -0300
+ Birth: 2023-08-25 01:20:51.235328300 -0300
+IPFS hash: QmNW2vC3o8Ucw5vornsTr5sniimMrzE6iNaRDm3wGcMr5x
+------------------------------
+  File: ./.folderstamp3
+  Size: 2726      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4193138     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:22:20.395648700 -0300
+Modify: 2023-08-25 01:22:20.907650900 -0300
+Change: 2023-08-25 01:22:28.215684200 -0300
+ Birth: 2023-08-25 01:22:20.395648700 -0300
+IPFS hash: QmYtpu49iw5qkwkVJumUu6WTzxJ2oPgmejHV4WYKrYNWvJ
+------------------------------
+  File: ./Apresentação2.pptx
+  Size: 213226    	Blocks: 424        IO Block: 4096   regular file
+Device: 8,20	Inode: 1099039     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:20:51.303328500 -0300
+Modify: 2022-12-16 12:36:48.839715100 -0300
+Change: 2023-08-25 01:22:11.071607800 -0300
+ Birth: 2022-12-07 16:08:27.976698500 -0300
+IPFS hash: QmVuCeWXF1YERFVNervmaZAviKCDCicukVsBtKeG2eyTmE
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/COMMIT_EDITMSG
+  Size: 46        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099256     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:24.209061100 -0300
+Modify: 2022-12-07 16:12:24.208421100 -0300
+Change: 2022-12-07 16:12:24.208421100 -0300
+ Birth: 2022-12-07 16:12:24.207386400 -0300
+IPFS hash: QmeEKgbvKiYfULQqFKhURkvqnQqCMndHHBgerF8j2LJLWy
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/config
+  Size: 50        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099177     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.519432400 -0300
+Modify: 2022-12-07 16:12:22.283398400 -0300
+Change: 2022-12-07 16:12:22.283398400 -0300
+ Birth: 2022-12-07 16:12:22.278291600 -0300
+IPFS hash: QmRCdhLuCqhZ91NTcxSCfU1QXxV4CjkUdteiSfNPmsV7qH
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/description
+  Size: 73        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099176     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 13:51:05.088797300 -0300
+Modify: 2022-12-07 16:12:22.278022000 -0300
+Change: 2022-12-07 16:12:22.278022000 -0300
+ Birth: 2022-12-07 16:12:22.277816700 -0300
+IPFS hash: Qmdy135ZFG4kUALkaMhr6Cy3VhhkxyAh264kyg3725x8be
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/HEAD
+  Size: 21        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099175     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 22:52:15.640876400 -0300
+Modify: 2022-12-07 16:12:22.277584400 -0300
+Change: 2022-12-07 16:12:22.277584400 -0300
+ Birth: 2022-12-07 16:12:22.277399800 -0300
+IPFS hash: QmbRUdVtdtxcpdqyJE3iZwTJq7FPcXR1ErQRFB76sQCg9H
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099168     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.233416900 -0300
+Modify: 2022-12-07 16:12:22.276171400 -0300
+Change: 2022-12-07 16:12:22.276171400 -0300
+ Birth: 2022-12-07 16:12:22.276051600 -0300
+IPFS hash: QmY2duvZ5Resxt8astYUgQ8RXQz1N9axe77gCb5j6M95Gf
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/commit-msg.sample
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099167     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.232679400 -0300
+Modify: 2022-12-07 16:12:22.275830400 -0300
+Change: 2022-12-07 16:12:22.275830400 -0300
+ Birth: 2022-12-07 16:12:22.275676600 -0300
+IPFS hash: QmQbraCfKaCTZkqtdXCJPc11CWEiZGw1yYGwtbA6nbXWeh
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/fsmonitor-watchman.sample
+  Size: 4655      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099166     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.224026000 -0300
+Modify: 2022-12-07 16:12:22.275465000 -0300
+Change: 2022-12-07 16:12:22.275465000 -0300
+ Birth: 2022-12-07 16:12:22.275169600 -0300
+IPFS hash: QmNuzc8ypDCeoqfQffuasAjbdeFcj8o8kwuLq4eSUfYFkS
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/post-update.sample
+  Size: 189       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099165     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.214877800 -0300
+Modify: 2022-12-07 16:12:22.265683900 -0300
+Change: 2022-12-07 16:12:22.265683900 -0300
+ Birth: 2022-12-07 16:12:22.265344900 -0300
+IPFS hash: QmQjYxVj9iwitDGkmR48Cemr1JTgc6pvwo5cFkumNWqnjm
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099164     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.214291000 -0300
+Modify: 2022-12-07 16:12:22.250651900 -0300
+Change: 2022-12-07 16:12:22.250651900 -0300
+ Birth: 2022-12-07 16:12:22.250317000 -0300
+IPFS hash: QmdzjzkpM31jTKd5YBJkWsbDXJeeW1Uy1UxVPwfKFxwy89
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/pre-commit.sample
+  Size: 1643      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099162     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.212997900 -0300
+Modify: 2022-12-07 16:12:22.248895400 -0300
+Change: 2022-12-07 16:12:22.248895400 -0300
+ Birth: 2022-12-07 16:12:22.235298100 -0300
+IPFS hash: QmY33NoK9jzqitkPK1QdWTnNQt7m6DsE4fYvyohjdbyfju
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099163     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.213704600 -0300
+Modify: 2022-12-07 16:12:22.249753300 -0300
+Change: 2022-12-07 16:12:22.249753300 -0300
+ Birth: 2022-12-07 16:12:22.249496100 -0300
+IPFS hash: QmPte81MJoXgCngK75SVZTn2DAXskuo9gdVr2uR5PfVVQE
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/pre-push.sample
+  Size: 1348      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099161     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.207731800 -0300
+Modify: 2022-12-07 16:12:22.235055000 -0300
+Change: 2022-12-07 16:12:22.235055000 -0300
+ Birth: 2022-12-07 16:12:22.234888200 -0300
+IPFS hash: QmXprUtrWGYLRETUvuA89HjwUGdufGrwJxYaXyGwQ7TMvQ
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/pre-rebase.sample
+  Size: 4850      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099160     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.193358700 -0300
+Modify: 2022-12-07 16:12:22.234598200 -0300
+Change: 2022-12-07 16:12:22.234598200 -0300
+ Birth: 2022-12-07 16:12:22.234265500 -0300
+IPFS hash: QmfUUWWehKQYqGWXi32pzS9iPaSMiMTTB9uZHzpmZ3Z87x
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/pre-receive.sample
+  Size: 544       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099159     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.175955000 -0300
+Modify: 2022-12-07 16:12:22.234068600 -0300
+Change: 2022-12-07 16:12:22.234068600 -0300
+ Birth: 2022-12-07 16:12:22.233922600 -0300
+IPFS hash: QmRKbU9DFRNWjR1UwV4nC6MXPnrNanfsBM5579t4HLUuig
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099158     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.174768900 -0300
+Modify: 2022-12-07 16:12:22.233669600 -0300
+Change: 2022-12-07 16:12:22.233669600 -0300
+ Birth: 2022-12-07 16:12:22.233417100 -0300
+IPFS hash: QmPku8ai5p4sSCDHe19n9Ekfo21xM5urFdkq9Rg1wBHjcV
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/hooks/update.sample
+  Size: 3635      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099157     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.151740300 -0300
+Modify: 2022-12-07 16:12:22.232907200 -0300
+Change: 2022-12-07 16:12:22.232907200 -0300
+ Birth: 2022-12-07 16:12:22.232543000 -0300
+IPFS hash: QmV7QB3DHmN59g58DH4YFJMSsFsUCdc9PHK1uAdq2wk1wH
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/index
+  Size: 4047      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099232     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.567432500 -0300
+Modify: 2022-12-07 16:12:24.206630100 -0300
+Change: 2022-12-07 16:12:24.206978300 -0300
+ Birth: 2022-12-07 16:12:23.914172200 -0300
+IPFS hash: Qme9br8magFW45Y8K8TwHGjZX33ymj8NfRJMsvDYbyPqra
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/info/exclude
+  Size: 240       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099155     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.603432600 -0300
+Modify: 2022-12-07 16:12:22.208366700 -0300
+Change: 2022-12-07 16:12:22.208366700 -0300
+ Birth: 2022-12-07 16:12:22.208119200 -0300
+IPFS hash: QmcfzxUpw36y8fu2GR3s7Vgq7RBgooKtc6BgsqFnadsDLc
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/logs/HEAD
+  Size: 210       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099261     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:01:54.269518200 -0300
+Modify: 2022-12-07 16:12:24.218035500 -0300
+Change: 2022-12-07 16:12:24.218035500 -0300
+ Birth: 2022-12-07 16:12:24.217909500 -0300
+IPFS hash: QmbpbJbxYcMZ17FzMaXKPoVVFF7xmJCr7yPXeVpwZVs7cz
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/logs/refs/heads/main
+  Size: 210       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099264     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-07 03:00:23.599537500 -0300
+Modify: 2022-12-07 16:12:24.218988000 -0300
+Change: 2022-12-07 16:12:24.218988000 -0300
+ Birth: 2022-12-07 16:12:24.218868400 -0300
+IPFS hash: QmbpbJbxYcMZ17FzMaXKPoVVFF7xmJCr7yPXeVpwZVs7cz
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/01/9e09303fde107e57d95fafd1ca33747e51c826
+  Size: 1304      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099208     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.266333300 -0300
+Modify: 2022-12-07 16:12:23.480858000 -0300
+Change: 2022-12-07 16:12:23.496126200 -0300
+ Birth: 2022-12-07 16:12:23.480028400 -0300
+IPFS hash: Qmc48s4NyvquHQDSZEgz5DsFSHY1FA5Ymqb4KRdCwShMev
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/0a/b2c475a71d44a400e6ce25e590af9310d293eb
+  Size: 201       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099198     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.226959000 -0300
+Modify: 2022-12-07 16:12:23.000000000 -0300
+Change: 2022-12-07 16:12:23.305008600 -0300
+ Birth: 2022-12-07 16:12:23.132009600 -0300
+IPFS hash: QmWbyDTqd9ea2kRgtCEBmGohHbspRTuWX9oinXKjTumCMW
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/0d/4b132f974a473e1b3cdc845f99bae782588ea8
+  Size: 1747      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099229     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.337120800 -0300
+Modify: 2022-12-07 16:12:23.803798400 -0300
+Change: 2022-12-07 16:12:23.809572300 -0300
+ Birth: 2022-12-07 16:12:23.803392600 -0300
+IPFS hash: QmRJanLtdcNDFm6wcY3RvYYg2fe8TCcETvaXs5GnrUnV47
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/15/749aace57d5fad421b48af796021de71249f79
+  Size: 86        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099249     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.125239200 -0300
+Modify: 2022-12-07 16:12:24.106065100 -0300
+Change: 2022-12-07 16:12:24.106352800 -0300
+ Birth: 2022-12-07 16:12:24.105922800 -0300
+IPFS hash: QmNoPxfw2Td4uSLgqjWfjMcNfiACE4TzKFvdKnbHyppp4U
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/1a/ba7877c4e3f44c71517d7553bf9dae46f2548c
+  Size: 1113      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099204     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.249698100 -0300
+Modify: 2022-12-07 16:12:23.330986600 -0300
+Change: 2022-12-07 16:12:23.332015500 -0300
+ Birth: 2022-12-07 16:12:23.330530700 -0300
+IPFS hash: QmRwnp1KvUMBZpCGQtPnL28v45eZ9bmH4H1vMidZQ5RzwY
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/1a/e9386758eb058ef5bd069d4a5fbe74c27599cb
+  Size: 50        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099233     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.062735900 -0300
+Modify: 2022-12-07 16:12:23.984195300 -0300
+Change: 2022-12-07 16:12:23.986489500 -0300
+ Birth: 2022-12-07 16:12:23.983866500 -0300
+IPFS hash: QmRErECXnWnDbNEMDmi4iFrbMrBvrEANpJUcWGfJwjFZyp
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/1d/507465dd51c0f09521bf0702abfa8df20ddbee
+  Size: 54        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099251     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.140867700 -0300
+Modify: 2022-12-07 16:12:24.108018700 -0300
+Change: 2022-12-07 16:12:24.181007200 -0300
+ Birth: 2022-12-07 16:12:24.107767700 -0300
+IPFS hash: QmPy5s2t2gNe2EgvBFR6CARzaahWpABz6Ckb8w9L5K1oXr
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/2c/a62dedec11194253f37630ad0be47362252e97
+  Size: 353       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099241     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.093986700 -0300
+Modify: 2022-12-07 16:12:24.101992100 -0300
+Change: 2022-12-07 16:12:24.102313500 -0300
+ Birth: 2022-12-07 16:12:24.101796200 -0300
+IPFS hash: Qmae9cgQxfaX42JHwBEj7195DUSxTS6LTrkecksz1YWoa1
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/37/0cab18aa73b3b9f64abb51a19fcaba5e5f3cc1
+  Size: 201       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099224     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.320175800 -0300
+Modify: 2022-12-07 16:12:23.799860500 -0300
+Change: 2022-12-07 16:12:23.800289200 -0300
+ Birth: 2022-12-07 16:12:23.799617600 -0300
+IPFS hash: QmQbo5n8D6wAWdbZ6iySjzxhiTfmtM19Z7b3WV16JUYACM
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/57/0c188dc8c21bfeae184edf1cb0acbe3e6807c6
+  Size: 396       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099231     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.338124700 -0300
+Modify: 2022-12-07 16:12:23.830214700 -0300
+Change: 2022-12-07 16:12:23.831418000 -0300
+ Birth: 2022-12-07 16:12:23.829151600 -0300
+IPFS hash: QmansRzeRb79AoNaKDdC6Suo4gKo1RMjYpG7RBCXjQapVF
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/5d/b2085341330b81ee650f273cbbefe52d1edffd
+  Size: 310       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099253     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.078357700 -0300
+Modify: 2022-12-07 16:12:24.204875300 -0300
+Change: 2022-12-07 16:12:24.205260500 -0300
+ Birth: 2022-12-07 16:12:24.204606400 -0300
+IPFS hash: QmWzTfB6r6AzkYhqKCVuq3Q6cDM3VwUkQyxbyQeYpCFMRk
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/62/ba0b56a9cf1ba807ef05d6d3d61c4f977b6e86
+  Size: 121       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099235     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.078357700 -0300
+Modify: 2022-12-07 16:12:23.987765200 -0300
+Change: 2022-12-07 16:12:23.988222100 -0300
+ Birth: 2022-12-07 16:12:23.987518200 -0300
+IPFS hash: QmNvuhcmLuo7n9721j329WXVnySe9pxesHways6kxX6rQw
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/66/2d0e053a3006ee64b46d6455d4a746fd81c854
+  Size: 1361      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099218     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.303023300 -0300
+Modify: 2022-12-07 16:12:23.690864100 -0300
+Change: 2022-12-07 16:12:23.699344500 -0300
+ Birth: 2022-12-07 16:12:23.690336300 -0300
+IPFS hash: QmZfKDzaeinrqvbTVJr6jpbuCMxMTcaEP8raXaceFw7LdH
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/6a/191ab986b2b5eba48c2f90649dbc7440a08783
+  Size: 295       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099220     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.304093300 -0300
+Modify: 2022-12-07 16:12:23.752555400 -0300
+Change: 2022-12-07 16:12:23.784826900 -0300
+ Birth: 2022-12-07 16:12:23.752061800 -0300
+IPFS hash: QmYx1ZKLmK7TTuMdtppTxYK5Td5xWES9SZWuAKUPSNJZhg
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/6f/68c4055fb5843787d1bfa5d2c65cee86d4a6af
+  Size: 66        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099243     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.125239200 -0300
+Modify: 2022-12-07 16:12:24.102942800 -0300
+Change: 2022-12-07 16:12:24.103270500 -0300
+ Birth: 2022-12-07 16:12:24.102791100 -0300
+IPFS hash: QmY9cwxJUAU36csvoqzcChTf2mheCcAxzzmiNMLHRcn8kX
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/71/00d4b140350673f7139334aa9e1d55d138ff04
+  Size: 270       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099182     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.151931600 -0300
+Modify: 2022-12-07 16:12:22.675272400 -0300
+Change: 2022-12-07 16:12:22.714199100 -0300
+ Birth: 2022-12-07 16:12:22.674827600 -0300
+IPFS hash: QmWoFB6fGGJih4RoiJnhkV1p4grTfhoxxSrYkN5SGaJxKT
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/72/624fc6ebf56a14665750d9d01a353d3dfabb2c
+  Size: 880       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099212     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.267409000 -0300
+Modify: 2022-12-07 16:12:23.588477800 -0300
+Change: 2022-12-07 16:12:23.599283300 -0300
+ Birth: 2022-12-07 16:12:23.587850600 -0300
+IPFS hash: QmUKKSt7b8VWfaQ8Pko7tz5h3qp9Ga8mKNrRaRPdsn2CUT
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/75/4a4104c746506a21a971228ca2497869dd44c2
+  Size: 2115      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099222     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.319014600 -0300
+Modify: 2022-12-07 16:12:23.798003600 -0300
+Change: 2022-12-07 16:12:23.798533100 -0300
+ Birth: 2022-12-07 16:12:23.795763800 -0300
+IPFS hash: QmWSA4JHcDPi49dxfJRFX8NX2NEhQ117M6wAXxikyCDakZ
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/76/aea184ead8a25801aceba1e90b68634a3e2124
+  Size: 60        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099247     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.125239200 -0300
+Modify: 2022-12-07 16:12:24.105039200 -0300
+Change: 2022-12-07 16:12:24.105300000 -0300
+ Birth: 2022-12-07 16:12:24.104903900 -0300
+IPFS hash: QmRTBc286K1nExABgTNx2itSTcU6XgcHkmUKCzjgaiFGuS
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/7a/29b729a1d72a6ee2725413c7ab5701616beefb
+  Size: 1011      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099206     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.251162800 -0300
+Modify: 2022-12-07 16:12:23.416579200 -0300
+Change: 2022-12-07 16:12:23.453197600 -0300
+ Birth: 2022-12-07 16:12:23.416106700 -0300
+IPFS hash: QmRnePa9Zo9EgiSfxg9LySsLooAN6BNmpUSX9vATNYofHL
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/7a/bf61d567ac0a5b52eb024848c7c29a9aad6b77
+  Size: 1488      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099210     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.258346100 -0300
+Modify: 2022-12-07 16:12:23.551910100 -0300
+Change: 2022-12-07 16:12:23.568144300 -0300
+ Birth: 2022-12-07 16:12:23.551379900 -0300
+IPFS hash: QmZqWw8sV5JZ7HM9xu7EECYR6BT9cc21XMMFbUnwfheu8J
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/7c/20d9d211ce8d26a1a5b9893615c9ba9ddeac2a
+  Size: 284       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099191     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.213217500 -0300
+Modify: 2022-12-07 16:12:22.990767700 -0300
+Change: 2022-12-07 16:12:23.004839600 -0300
+ Birth: 2022-12-07 16:12:22.976290600 -0300
+IPFS hash: QmUs1N6zep9ZxtB5vVGAtz7a3o1GgY1FdS1zkTL57Cp4sB
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/90/38c3887355a5c89ea9dd3f9e2ff91281dca256
+  Size: 102       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099239     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.109609800 -0300
+Modify: 2022-12-07 16:12:24.095794500 -0300
+Change: 2022-12-07 16:12:24.100423700 -0300
+ Birth: 2022-12-07 16:12:24.095382600 -0300
+IPFS hash: QmNZLfFYvFuMFV9BynNot6syRdAMzTwXe2dRtEVQFYMENo
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/92/a659368c5c387be083f155664414e55a0da959
+  Size: 1031      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099202     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.243825300 -0300
+Modify: 2022-12-07 16:12:23.314909300 -0300
+Change: 2022-12-07 16:12:23.315496600 -0300
+ Birth: 2022-12-07 16:12:23.314453100 -0300
+IPFS hash: QmTqCeosoa7UApmJcWgux6zZaHSTXKGpYeiRTw6xcUZamS
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/93/34136f357884163a1555406dd15f270ce0a4c1
+  Size: 382       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099187     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.184167900 -0300
+Modify: 2022-12-07 16:12:22.780435400 -0300
+Change: 2022-12-07 16:12:22.815504300 -0300
+ Birth: 2022-12-07 16:12:22.779906900 -0300
+IPFS hash: QmRceqHtXrHGU4Yuxz3jtRh14utqrcz9drRLTqUvr2uq67
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/9b/97df20b88022964eef98ac11f0b7ac5e2247ee
+  Size: 441       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099193     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.214359900 -0300
+Modify: 2022-12-07 16:12:23.036571900 -0300
+Change: 2022-12-07 16:12:23.045279400 -0300
+ Birth: 2022-12-07 16:12:23.036178400 -0300
+IPFS hash: QmXg78FzMTJgYYhvM6TJBE45ep1EYEYZ13uYbvDw8oiFmD
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/9e/8de374a23362ecc37cd60c8239e0fe4bbb91a4
+  Size: 459       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099180     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.150466600 -0300
+Modify: 2022-12-07 16:12:22.630240200 -0300
+Change: 2022-12-07 16:12:22.638647000 -0300
+ Birth: 2022-12-07 16:12:22.616763500 -0300
+IPFS hash: QmdcmJjsjswzv355ygZHoLusjohZuKBkDsisBq9EgPtFg5
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/9e/b719377f0e807f4f6dd764e874f15869570b73
+  Size: 1123      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099209     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.150999000 -0300
+Modify: 2022-12-07 16:12:23.505650100 -0300
+Change: 2022-12-07 16:12:23.524513800 -0300
+ Birth: 2022-12-07 16:12:23.498568300 -0300
+IPFS hash: QmakCRmcmspaqQgxaSNdNMsWiNzxahrdbjXQ4Q9APM9Bc1
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/a0/f69ee2669eb422d3cf115142550ceb1298e932
+  Size: 92        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099245     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.109609800 -0300
+Modify: 2022-12-07 16:12:24.103994400 -0300
+Change: 2022-12-07 16:12:24.104428700 -0300
+ Birth: 2022-12-07 16:12:24.103834400 -0300
+IPFS hash: QmPiTjbB5boCNPCKsnR9oHNd6tSnF5kJGu25afysZxy4nG
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/b5/ac4bffcc4e4148bc663d208f573bd53249281a
+  Size: 66        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099237     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:28:42.093986700 -0300
+Modify: 2022-12-07 16:12:23.989141200 -0300
+Change: 2022-12-07 16:12:24.011497000 -0300
+ Birth: 2022-12-07 16:12:23.988918000 -0300
+IPFS hash: QmdyLJAVdmoqs4ju5MvWVokKdtxyDQRovsYnAachHP7gbh
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/c2/b25c5e4590a0f660d3754293ad295dfbb8b5aa
+  Size: 6185      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099189     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.211858700 -0300
+Modify: 2022-12-07 16:12:22.878118500 -0300
+Change: 2022-12-07 16:12:22.901385000 -0300
+ Birth: 2022-12-07 16:12:22.869716700 -0300
+IPFS hash: QmX8Mdc5tKwAKzii5PAR38TsbgKwzx6GQLJGUV86J5ZNRW
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/cb/3a58033a01ec3312ce0dadee43091032091acd
+  Size: 1102      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099226     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.329127300 -0300
+Modify: 2022-12-07 16:12:23.801428100 -0300
+Change: 2022-12-07 16:12:23.801764800 -0300
+ Birth: 2022-12-07 16:12:23.801166600 -0300
+IPFS hash: QmQBU1KdgC8owSyHjtLUZLuRUmW6BTnkxRTwwJKVbbi4hA
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/d7/97812dc2e1772ffb5903aa409de970f610ac00
+  Size: 156       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099255     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.603432600 -0300
+Modify: 2022-12-07 16:12:24.206180200 -0300
+Change: 2022-12-07 16:12:24.206468600 -0300
+ Birth: 2022-12-07 16:12:24.205991700 -0300
+IPFS hash: QmTzpVxL8hpTxrsMLYib9v3hkDdqdJdYJPZr4pzfC397pR
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/e1/cd2937645f4d6dcfbaf520d60c2725ee1ea56e
+  Size: 1220      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099200     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.232282000 -0300
+Modify: 2022-12-07 16:12:23.312080400 -0300
+Change: 2022-12-07 16:12:23.312993400 -0300
+ Birth: 2022-12-07 16:12:23.311633100 -0300
+IPFS hash: QmZ5fwRRyU6ZS9Qxu2Tcf4Hf224EaExjoPXTU6mLSmpxeB
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/e4/b7cd41b750927e0e59fa82a13aae1471273aaa
+  Size: 1437      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099216     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.294327400 -0300
+Modify: 2022-12-07 16:12:23.649334700 -0300
+Change: 2022-12-07 16:12:23.672786200 -0300
+ Birth: 2022-12-07 16:12:23.648668200 -0300
+IPFS hash: QmfY6KnKmB3vdghC2nTp2kQjFgVDdongsXGD6RmpbWByor
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/e9/a8ca4ef9307f847a89687ba48382f433db12c2
+  Size: 587       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099195     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.225997300 -0300
+Modify: 2022-12-07 16:12:23.077812200 -0300
+Change: 2022-12-07 16:12:23.080537500 -0300
+ Birth: 2022-12-07 16:12:23.076593300 -0300
+IPFS hash: QmYnPdAWKAijSuD2dKfXKHXyK7q1Gga9wjYrYxaxxDbj5Z
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/ec/36dfefa4bca9f4e3bea1bab8b32bb39b3b9e2e
+  Size: 564       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099184     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.182730200 -0300
+Modify: 2022-12-07 16:12:22.733426500 -0300
+Change: 2022-12-07 16:12:22.750771200 -0300
+ Birth: 2022-12-07 16:12:22.732989400 -0300
+IPFS hash: QmUTezzUiek7tjFNtFPY2MNTSfNZPJTbVaLgbnE9NeUqkK
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/ec/d5f7a0196010d6d2b5b05e9c16060f45835444
+  Size: 178       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099227     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.183301500 -0300
+Modify: 2022-12-07 16:12:23.802412500 -0300
+Change: 2022-12-07 16:12:23.802728700 -0300
+ Birth: 2022-12-07 16:12:23.802274000 -0300
+IPFS hash: QmcipgVSoFxdzA5pkVTT8RmwBhMeBCywjtcZudMYVM4HgC
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/ee/354ecbe419dfc76061ed1ecd328c49e8714e4e
+  Size: 820       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099214     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-08 14:30:15.274660800 -0300
+Modify: 2022-12-07 16:12:23.635017100 -0300
+Change: 2022-12-07 16:12:23.636035500 -0300
+ Birth: 2022-12-07 16:12:23.611211200 -0300
+IPFS hash: QmUTQx6dajtHBdvkHYY3V8AHGUMS8yQeoDH4nmh478J4rQ
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/objects/ee/7c086e5385a35904e1f50963995f9326d9336a
+  Size: 167       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099257     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.603432600 -0300
+Modify: 2022-12-07 16:12:24.210512700 -0300
+Change: 2022-12-07 16:12:24.212516600 -0300
+ Birth: 2022-12-07 16:12:24.210142900 -0300
+IPFS hash: Qmda66hc8vUfLF1PNDiSdetKsoAA2b8H4JCN6Axav4AKs2
+------------------------------
+  File: ./Apresentação2.pptx@git/.git/refs/heads/main
+  Size: 41        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099259     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 01:21:25.519432400 -0300
+Modify: 2022-12-07 16:12:24.217392600 -0300
+Change: 2022-12-07 16:12:24.219251600 -0300
+ Birth: 2022-12-07 16:12:24.215865600 -0300
+IPFS hash: QmcrXQREq7bhXzApi9E6Cx1BXDQWemnET8W2ogz8ETQmig
+------------------------------
+  File: ./Apresentação2.pptx@git/docProps/app.xml
+  Size: 1298      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099152     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:22.715108000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:24.897878400 -0300
+ Birth: 2022-12-07 16:10:24.843947500 -0300
+IPFS hash: QmeWX41Ds79Xww8HYbMgg1prvtZDVLxZqGd7LThRPFYpXw
+------------------------------
+  File: ./Apresentação2.pptx@git/docProps/core.xml
+  Size: 692       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099151     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:22.751376600 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:24.771298400 -0300
+ Birth: 2022-12-07 16:10:24.704543200 -0300
+IPFS hash: QmZ5UFsDDE4cuvKE2HYdQaQfiEZP8V44TEjHcs2h14ddLv
+------------------------------
+  File: ./Apresentação2.pptx@git/docProps/thumbnail.jpeg
+  Size: 6687      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099147     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:22.825731300 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:24.090231700 -0300
+ Birth: 2022-12-07 16:10:24.062769600 -0300
+IPFS hash: QmdWv4NFVvU6rS7jHsiHmnPifhNEH8uEvEgxtko7uknfEW
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/presentation.xml
+  Size: 3212      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099114     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.047032600 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:18.786115400 -0300
+ Birth: 2022-12-07 16:10:18.776393900 -0300
+IPFS hash: QmRoi3CJW6trB59KDykUfMude7TAV9WDeE6S2ozpqrEB5i
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/presProps.xml
+  Size: 887       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099148     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.018939900 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:24.304690800 -0300
+ Birth: 2022-12-07 16:10:24.257564900 -0300
+IPFS hash: QmSq9FDYVtB1qrb9ZY4fubAkkFiWYXsjaojzazv8jFPAz7
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout1.xml
+  Size: 3770      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099135     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.310579100 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:22.348174700 -0300
+ Birth: 2022-12-07 16:10:22.297105800 -0300
+IPFS hash: QmafzMR2iD64YtDPjLP9y38Jbi15zGjZmWtwUiA5kFuq78
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout10.xml
+  Size: 3119      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099132     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.313604000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:21.547804400 -0300
+ Birth: 2022-12-07 16:10:21.512390800 -0300
+IPFS hash: QmUtaK4xXuK5XVW7LNGHDcocmLqwVaK7SifzUbFkUgxcHC
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout11.xml
+  Size: 3344      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099131     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.328610700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:21.419122800 -0300
+ Birth: 2022-12-07 16:10:21.364616500 -0300
+IPFS hash: QmVHdaXdpgVPBbJSkst1nLduhjE4ZuRkJw1BSWyCybPTY7
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout2.xml
+  Size: 3067      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099134     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.352804300 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:22.047990500 -0300
+ Birth: 2022-12-07 16:10:21.934221900 -0300
+IPFS hash: QmNuBynruE4pz1NSwFLkmwqfxmnbWFnb7avJPxsoE1iLqq
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout3.xml
+  Size: 4503      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099133     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.454294100 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:21.730659000 -0300
+ Birth: 2022-12-07 16:10:21.699687100 -0300
+IPFS hash: QmeaUJHr4AfeHmWWn1SmAG1ZzwhWLjDrR9uzG3KLCQysYa
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout4.xml
+  Size: 4028      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099137     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.497327700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:22.655923200 -0300
+ Birth: 2022-12-07 16:10:22.580741100 -0300
+IPFS hash: QmcBWz9QmGAkQGh6SozYrpj6YMUeMc8V1teb12rZHibn9Q
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout5.xml
+  Size: 6592      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099138     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.537461000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:22.871184600 -0300
+ Birth: 2022-12-07 16:10:22.863772900 -0300
+IPFS hash: QmdeCz1MTtLD3gr5GWa7hDZ3wJxCzbNfGTvPXF7hSV7Bnh
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout6.xml
+  Size: 2317      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099139     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.569135000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:22.974628000 -0300
+ Birth: 2022-12-07 16:10:22.954302800 -0300
+IPFS hash: QmVgkHViBv3CMRKaum1iERwXuzCKAWTwrt3ru7xhR8Z5Yq
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout7.xml
+  Size: 1972      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099140     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.609435200 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:23.131992900 -0300
+ Birth: 2022-12-07 16:10:23.073108900 -0300
+IPFS hash: QmagCE3kC3MPKEzXw7pf4gssUYb6icAAbg6x4UPMcYJYnM
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout8.xml
+  Size: 4903      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099141     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.636668700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:23.284638200 -0300
+ Birth: 2022-12-07 16:10:23.269224400 -0300
+IPFS hash: QmVYW3RWH6a9no1ZyPiSVEhVXtbHCSWUBGx91o6L7oGTwq
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/slideLayout9.xml
+  Size: 4754      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099142     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.679394200 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:23.496117000 -0300
+ Birth: 2022-12-07 16:10:23.449533400 -0300
+IPFS hash: QmNZdB3q5GrLtbvTPFR8SPAZa9qgpdUuP5Wi4iDAsFY1uB
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout1.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099124     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.117952700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:20.264641100 -0300
+ Birth: 2022-12-07 16:10:20.210720200 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout10.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099121     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.149463700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:19.759006200 -0300
+ Birth: 2022-12-07 16:10:19.740564800 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout11.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099123     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.163849300 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:20.048570000 -0300
+ Birth: 2022-12-07 16:10:20.031305400 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout2.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099125     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.171079800 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:20.485224200 -0300
+ Birth: 2022-12-07 16:10:20.440422500 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout3.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099126     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.230689600 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:20.695247200 -0300
+ Birth: 2022-12-07 16:10:20.599539500 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout4.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099127     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.253268700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:20.834239600 -0300
+ Birth: 2022-12-07 16:10:20.815980000 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout5.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099143     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.267087100 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:23.736367400 -0300
+ Birth: 2022-12-07 16:10:23.673384300 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout6.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099118     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.285710900 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:19.158521500 -0300
+ Birth: 2022-12-07 16:10:19.124728900 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout7.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099119     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.292908700 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:19.228553900 -0300
+ Birth: 2022-12-07 16:10:19.185726600 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout8.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099122     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.297530600 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:19.911685400 -0300
+ Birth: 2022-12-07 16:10:19.894477400 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideLayouts/_rels/slideLayout9.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099120     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.304595200 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:19.537341300 -0300
+ Birth: 2022-12-07 16:10:19.488888200 -0300
+IPFS hash: QmYWHaD5RiWnCVgz6c4TFaEQG1BUuLrPSjTJPrTta6JUNG
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideMasters/slideMaster1.xml
+  Size: 13029     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099136     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.786218400 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:22.457174500 -0300
+ Birth: 2022-12-07 16:10:22.410341500 -0300
+IPFS hash: QmdSh6pQsRCtjV2HG58eWixDtFHhBn6m8cRxnrbyb72C8j
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slideMasters/_rels/slideMaster1.xml.rels
+  Size: 1991      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099130     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.700938100 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:21.137225100 -0300
+ Birth: 2022-12-07 16:10:21.007730200 -0300
+IPFS hash: QmfCZiASqmbf8PM2NrVXohWrAaXFeNnmraJACJzFGfgZt3
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slides/slide1.xml
+  Size: 3317      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099115     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.800557000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:18.908979500 -0300
+ Birth: 2022-12-07 16:10:18.908302500 -0300
+IPFS hash: QmQn49Nz5fg6VusexfcKAmQkTmr3W3B63XKnYzXe8TFxyi
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/slides/_rels/slide1.xml.rels
+  Size: 311       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099111     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.799103900 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:18.518853100 -0300
+ Birth: 2022-12-07 16:10:18.487395000 -0300
+IPFS hash: QmQKTPDQxnQuhRkexS8y3N5NrNGKttYoCzmLdWzU5NvZ5e
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/tableStyles.xml
+  Size: 182       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099149     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.802033000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:24.445874700 -0300
+ Birth: 2022-12-07 16:10:24.396448200 -0300
+IPFS hash: QmWaFnWwPvw6bqxTonH1EBW7u8Kt62LiG8tLa1yBsDagYj
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/theme/theme1.xml
+  Size: 6807      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 1099145     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.802999900 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:23.931211500 -0300
+ Birth: 2022-12-07 16:10:23.888385500 -0300
+IPFS hash: QmWo9D8ZCAZh4D8QTx1TLxXXcDMgaWfY98s3DqnKHAHh7Q
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/viewProps.xml
+  Size: 799       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099150     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:23.819749400 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:24.642355800 -0300
+ Birth: 2022-12-07 16:10:24.567116700 -0300
+IPFS hash: QmYQRm24mgWuyR1PoybuB5jk4RCdTBDCLFiPDKtQUQbaPT
+------------------------------
+  File: ./Apresentação2.pptx@git/ppt/_rels/presentation.xml.rels
+  Size: 976       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099113     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:22.924155000 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:18.679380800 -0300
+ Birth: 2022-12-07 16:10:18.650298000 -0300
+IPFS hash: QmTMd89XsJ7T4BvUqTx77JhsgaM7yQWsCX6DAKC6NwX5s4
+------------------------------
+  File: ./Apresentação2.pptx@git/[Content_Types].xml
+  Size: 3142      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099105     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:22.598264600 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:18.109815600 -0300
+ Birth: 2022-12-07 16:10:17.990024600 -0300
+IPFS hash: QmT1byFaNCuRUpSGWEmncwEHHrcB8xyMv7YZNY722Dococ
+------------------------------
+  File: ./Apresentação2.pptx@git/_rels/.rels
+  Size: 738       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1099107     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-07 16:12:22.655328200 -0300
+Modify: 1980-01-01 00:00:00.000000000 -0300
+Change: 2022-12-07 16:10:18.315319500 -0300
+ Birth: 2022-12-07 16:10:18.254299900 -0300
+IPFS hash: QmYDVhPDJjXnhCCuCAiMd2ytA9hPP7LgoawRJ3kvAcWjJD
+------------------------------

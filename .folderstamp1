@@ -1,0 +1,82 @@
+This folder: /media/daniella/B/git/Floflis/Screens/DCRS
+
+  File: ./Apresentação2.pptx
+  Size: 213226    	Blocks: 424        IO Block: 4096   regular file
+Device: 8,20	Inode: 1099039     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-16 12:36:49.933525600 -0300
+Modify: 2022-12-16 12:36:48.839715100 -0300
+Change: 2022-12-16 12:36:48.902220900 -0300
+ Birth: 2022-12-07 16:08:27.976698500 -0300
+IPFS hash: QmVuCeWXF1YERFVNervmaZAviKCDCicukVsBtKeG2eyTmE
+------------------------------
+  File: ./Apresentação2.pptx@git
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1099104     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:42.766014700 -0300
+Modify: 2022-12-07 16:12:22.206114800 -0300
+Change: 2022-12-07 16:12:22.206114800 -0300
+ Birth: 2022-12-07 16:09:35.872184600 -0300
+IPFS hash: 
+------------------------------
+  File: ./DCRS-ISO-builder
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 3144504     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:42.844392700 -0300
+Modify: 2023-02-04 16:47:26.926642600 -0300
+Change: 2023-02-04 16:47:26.926642600 -0300
+ Birth: 2023-02-04 16:46:05.437377400 -0300
+IPFS hash: 
+------------------------------
+  File: ./DCRS-UI
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 3140155     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:43.335456800 -0300
+Modify: 2022-12-07 20:01:38.152101400 -0300
+Change: 2022-12-07 20:01:38.152101400 -0300
+ Birth: 2021-08-02 03:06:21.981109700 -0300
+IPFS hash: 
+------------------------------
+  File: ./frk - use upstream
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1100705     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:43.339455600 -0300
+Modify: 2022-12-07 19:48:40.333543000 -0300
+Change: 2022-12-07 19:48:40.333543000 -0300
+ Birth: 2022-12-07 19:46:31.036919400 -0300
+IPFS hash: 
+------------------------------
+  File: ./&meta
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1438680     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:42.502605300 -0300
+Modify: 2023-01-02 16:14:21.999851700 -0300
+Change: 2023-01-02 16:14:21.999851700 -0300
+ Birth: 2022-11-24 23:14:48.285838800 -0300
+IPFS hash: 
+------------------------------
+  File: ./site
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 1544673     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-02 13:19:58.125535000 -0300
+Modify: 2021-03-17 21:18:25.110152000 -0300
+Change: 2022-12-07 16:06:42.425545000 -0300
+ Birth: 2021-03-17 21:18:13.210497600 -0300
+IPFS hash: 
+------------------------------
+  File: ./z.archived
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1099064     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-29 19:54:44.441448900 -0300
+Modify: 2022-12-07 16:07:04.543791100 -0300
+Change: 2022-12-07 16:07:04.543791100 -0300
+ Birth: 2022-12-07 16:06:44.339128500 -0300
+IPFS hash: 
+------------------------------
